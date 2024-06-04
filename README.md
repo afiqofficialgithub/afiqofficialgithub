@@ -1,5 +1,6 @@
-![logo](https://github.com/afiqofficialgithub/afiqofficialgithub/blob/main/OIP%20(4).jfif)
-<h1 align="center">Hi 👋, I'm A　F　I　Q　ツ</h1>
+
+<img align="centre" alt="coding" width="1000" src="https://github.com/afiqofficialgithub/afiqofficialgithub/blob/main/ia%20afiq.png">
+<h1 align="center">Hi 👋, I'm  AFIQ　ツ</h1>
 <h3 align="center">I am from Bangladesh.</h3>
 
 <img align="centre" alt="coding" width="1000" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -14,7 +15,7 @@
 
 - 📫 How to reach me **afiq.student07@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am funny🥰**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
