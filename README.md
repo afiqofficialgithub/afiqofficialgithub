@@ -1,3 +1,4 @@
+![logo](https://github.com/afiqofficialgithub/afiqofficialgithub/blob/main/OIP%20(4).jfif)
 <h1 align="center">Hi 👋, I'm A　F　I　Q　ツ</h1>
 <h3 align="center">I am from Bangladesh.</h3>
 
