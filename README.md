@@ -1,5 +1,5 @@
 
-<img align="centre" alt="coding" width="1000" src="https://github.com/afiqofficialgithub/afiqofficialgithub/blob/main/ia%20afiq.png">
+<img align="centre" alt="coding" width="1000" src="https://t4.ftcdn.net/jpg/03/11/85/29/360_F_311852926_LjyiycIQScxxfoDIc0M53EJdkSmhPAHa.jpg">
 <h1 align="center">Hi 👋, I'm  AFIQ　ツ</h1>
 <h3 align="center">I am from Bangladesh.</h3>
 
@@ -46,3 +46,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afiqofficialgithub&show_icons=true&locale=en" alt="afiqofficialgithub" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afiqofficialgithub&" alt="afiqofficialgithub" /></p>
+
